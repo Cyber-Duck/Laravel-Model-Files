@@ -1,6 +1,7 @@
 {
     "name": "cyber-duck/model-files",
     "description": "Model HasFiles Trait for Eloquent Models",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tiago Tavares",
