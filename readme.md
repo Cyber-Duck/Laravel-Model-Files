@@ -1,3 +1,6 @@
+# 🚨 Discontinued 🚨
+Please consider using [Spatie Media Library](https://github.com/spatie/laravel-medialibrary) instead.
+
 # Model Files
 
 This is still in development, since it was extracted from an existing project some 
